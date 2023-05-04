@@ -1,0 +1,8 @@
+C:\repository\calc\calc\bin\Debug\calc.exe.config
+C:\repository\calc\calc\bin\Debug\calc.exe
+C:\repository\calc\calc\bin\Debug\calc.pdb
+C:\repository\calc\calc\obj\Debug\calc.csproj.AssemblyReference.cache
+C:\repository\calc\calc\obj\Debug\calc.csproj.SuggestedBindingRedirects.cache
+C:\repository\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+C:\repository\calc\calc\obj\Debug\calc.exe
+C:\repository\calc\calc\obj\Debug\calc.pdb
